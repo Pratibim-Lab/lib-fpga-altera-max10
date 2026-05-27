@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Altera_MAX10/10M08SCE144:10M08SCE144",
+  "name": "10M08SCE144",
+  "library": "FPGA_Altera_MAX10",
+  "file": "FPGA_Altera_MAX10.kicad_symdir/10M08SCE144.kicad_sym",
+  "description": "Intel/Altera MAX 10 FPGA, single supply / compact features, 8000LE, LQFP-144 (Intel EQFP-144)",
+  "datasheet": "https://www.intel.com/programmable/technical-pdfs/max10-handbook.pdf",
+  "keywords": "MAX10 PLD FPGA DSP 12-bit-ADC Flash",
+  "footprint": "Package_QFP:EQFP-144-1EP_20x20mm_P0.5mm_EP5x5mm",
+  "extends": "10M04SCE144",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-altera-max10@master/parts/10M08SCE144/",
+  "part_path": "parts/10M08SCE144",
+  "symbol_file": "parts/10M08SCE144/10M08SCE144.kicad_sym",
+  "source_library": "FPGA_Altera_MAX10.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:52.457Z"
+}
